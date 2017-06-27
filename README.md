@@ -1,2 +1,2 @@
 # assets
-Audio, video, &amp; other content for http://marksilvermedia.tk
+Audio, video, &amp; other content for https://marksilvermedia.github.io
